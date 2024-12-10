@@ -1,0 +1,13 @@
+.box{
+    border: 2px  solid black;
+    border-width: 10%;
+    box-sizing: border-box;
+    padding: 12px;
+}
+
+
+.image{
+    width: 400px;
+    height: 300px; 
+    display: block;
+}
